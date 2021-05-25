@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.exe
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.deps.json
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.dll
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\ref\Exercicio Sobrescrita.dll
+C:\Users\dev\Desktop\Exercicio Sobrescrita\bin\Debug\net5.0\Exercicio Sobrescrita.pdb
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.dll
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\ref\Exercicio Sobrescrita.dll
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.pdb
+C:\Users\dev\Desktop\Exercicio Sobrescrita\obj\Debug\net5.0\Exercicio Sobrescrita.genruntimeconfig.cache
